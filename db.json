@@ -6,6 +6,62 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "andre@hotmail.com",
+      "password": "$2a$10$oZJ8PaX0aRzKcHw.eCUjlO8TE4HdYwQ8bwYrABDbdIC856CLZ4geO",
+      "id": 2
+    }
+  ],
+  "archives": [
+    {
+      "type": "cachorro",
+      "name": "Batata",
+      "id": 1
+    },
+    {
+      "type": "cachorro",
+      "name": "Batata",
+      "id": 2
+    },
+    {
+      "type": "cachorro",
+      "name": "Napoleao",
+      "id": 3
+    },
+    {
+      "type": "Lorem",
+      "name": "ipsum",
+      "id": 4
+    }
+  ],
+  "animals": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
     }
   ]
 }
