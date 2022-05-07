@@ -24,7 +24,7 @@ Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usu
 
 ### EndPoint usado:
 
-htttp://localhost:3001
+https://json-sever-andre-abreu20.herokuapp.com
 
 ### Cadastrar
 
